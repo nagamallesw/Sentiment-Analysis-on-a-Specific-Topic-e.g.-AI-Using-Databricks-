@@ -13,7 +13,7 @@ spark = SparkSession.builder.appName("TopicSentimentAnalysis").getOrCreate()
 
 # COMMAND ----------
 
-api_key = "188df6befdb5416e9ff5949809b7f412"
+api_key = ""
 
 # COMMAND ----------
 
